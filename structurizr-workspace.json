@@ -1,0 +1,514 @@
+{
+    "id": 85394,
+    "name": "Name",
+    "description": "Description",
+    "revision": 3,
+    "lastModifiedDate": "2023-08-12T09:42:37Z",
+    "lastModifiedUser": "juanfrca@ucm.es",
+    "lastModifiedAgent": "structurizr-cloud/dsl-editor/b28cb7d2-8a4a-4cfb-aebd-ec455df89e6f",
+    "properties": {
+        "structurizr.dsl": "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgCiAgICAgICAgZW1haWxTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiU2Vydmlkb3IgZGUgZW1haWwiIHsKICAgICAgICAgICAgZGVzY3JpcHRpb24gIkdtYWlsIEFQSSIKICAgICAgICAgICAgdGFncyAiRXh0ZXJuYWwiCiAgICAgICAgfQoKICAgICAgICBiYW5raW5nQWdncmVnYXRvciA9IHNvZnR3YXJlU3lzdGVtICJBZ3JlZ2Fkb3IgYmFuY2FyaW8iIHsKICAgICAgICAgICAgZGVzY3JpcHRpb24gIlBsYWlkIgogICAgICAgICAgICB0YWdzICJFeHRlcm5hbCIKICAgICAgICB9CiAgICAKICAgICAgICBlbnRlcnByaXNlICJDb250ZXh0byBkZWwgcHJveWVjdG8iIHsKCiAgICAgICAgICAgIHVzZXIgPSBwZXJzb24gIlVzdWFyaW8gZGUgQmFsYW5jZXIiICJVc3VhcmlvIGRlbCBzaXN0ZW1hIEJhbGFuY2VyLCBjb24gZ2FzdG9zIHBlcnNvbmFsZXMgeSB1bmEgbyB2YXJpYXMgY3VlbnRhcyBiYW5jYXJpYXMgbyBkZSBjb3JyZW8gZWxlY3Ryw7NuaWNvLiIKICAgICAgICAgICAgCiAgICAgICAgICAgIHNvZnR3YXJlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkJhbGFuY2VyIiB7CgogICAgICAgICAgICAgICAgY29yZSA9IGNvbnRhaW5lciAiU2VydmljaW8gQ29yZSIgXAogICAgICAgICAgICAgICAgICAgICJDb29yZGluYSBlbCByZXN0byBkZSBtaWNyb3NlcnZpY2lvcyB5IHByb3ZlZSBsYSBmdW5jaW9uYWxpZGFkIGRlIEJhbGFuY2VyIGEgdHJhdsOpcyBkZSB1bmEgQVBJIEpTT04vSFRUUFMuIiAiS290bGluL1NwcmluZyIKCiAgICAgICAgICAgICAgICBkYXRhYmFzZSA9IGNvbnRhaW5lciAiQmFzZSBkZSBkYXRvcyIgewogICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uICJBbG1hY2VuYSBjcmVkZW5jaWFsZXMgZGUgYWNjZXNvIGUgaW5mb3JtYWNpw7NuIHNvYnJlIGdhc3RvcywgcGxhbmlmaWNhY2nDs24geSBhbsOhbGlzaXMuIgogICAgICAgICAgICAgICAgICAgIHRhZ3MgIkRhdGFiYXNlIgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIGNvcmUgLT4gdGhpcyBcCiAgICAgICAgICAgICAgICAgICAgICAgICJDb25zdWx0YSB5IGVzY3JpYmUgZGF0b3MiICJUQ1AvU1FMIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBncm91cCAiRnVlbnRlcyBkZSBkYXRvcyIgewogICAgICAgICAgICAgICAgICAgIGJhbmtpbmdDb25uZWN0b3IgPSBjb250YWluZXIgIkNvbmVjdG9yIGJhbmNhcmlvIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uICJHZXN0aW9uYSBsYSBlbnRyYWRhIGRlIGRhdG9zIGEgdHJhdsOpcyBkZWwgYWdyZWdhZG9yIGJhbmNhcmlvLiIKICAgICAgICAgICAgICAgICAgICAgICAgdGVjaG5vbG9neSAiS290bGluL1NwcmluZyIKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIGJhbmtpbmdBZ2dyZWdhdG9yIC0+IHRoaXMgXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIk5vdGlmaWNhIHkgcHJvcG9yY2lvbmEgZGF0b3MgYmFuY2FyaW9zIiAiSlNPTi9IVFRQUyIKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMgLT4gY29yZSBcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTm90aWZpY2EgeSBwcm9wb3JjaW9uYSBkYXRvcyBiYW5jYXJpb3MiICJBTVFQL1RDUCIKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGVtYWlsQ29ubmVjdG9yID0gY29udGFpbmVyICJDb25lY3RvciBkZSBlbWFpbCIgewogICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbiAiR2VzdGlvbmEgbGEgZW50cmFkYSBkZSBkYXRvcyBhIHRyYXbDqXMgZGUgY29ycmVvIGVsZWN0csOzbmljby4iCiAgICAgICAgICAgICAgICAgICAgICAgIHRlY2hub2xvZ3kgIktvdGxpbi9TcHJpbmciCgogICAgICAgICAgICAgICAgICAgICAgICBlbWFpbFN5c3RlbSAtPiB0aGlzIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJQcm9wb3JjaW9uYSByZWNlcGNpw7NuIHkgZW52w61vIGRlIG1lbnNhamVzIGRlIGVtYWlsIiAiSlNPTi9IVFRQUyIKCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMgLT4gY29yZSBcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTm90aWZpY2EgeSBwcm9wb3JjaW9uYSBkYXRvcyBkZSBmYWN0dXJhcyB5IHJlY2lib3MiICJBTVFQL1RDUCIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAKICAgICAgICAgICAgICAgIGdyb3VwICJJbnRlcmFjY2nDs24gY29uIGVsIHVzdWFyaW8gKGZyb250ZW5kKSIKICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb25zID0gY29udGFpbmVyICJTZXJ2aWNpbyBkZSBub3RpZmljYWNpb25lcyIgewogICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbiAiR2VzdGlvbmEgZWwgZW52w61vIGRlIG5vdGlmaWNhY2lvbmVzIGFsIHVzdWFyaW8uIgogICAgICAgICAgICAgICAgICAgICAgICB0ZWNobm9sb2d5ICJLb3RsaW4vU3ByaW5nIgoKICAgICAgICAgICAgICAgICAgICAgICAgY29yZSAtPiB0aGlzIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJFbnbDrWEgbm90aWZpY2FjaW9uZXMiICJBTVFQL1RDUCIKCiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMgLT4gdXNlciBcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiRW52w61hIG5vdGlmaWNhY2lvbmVzIiAiW1RCRF0iCiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICB3ZWJBcHAgPSBjb250YWluZXIgIkFwbGljYWNpw7NuIHdlYiIgewogICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbiAiUHJvdmVlIGxhIGZ1bmNpb25hbGlkYWQgZGUgQmFsYW5jZXIgYSBsb3MgdXN1YXJpb3MgYSB0cmF2w6lzIGRlIHVuIG5hdmVnYWRvciB3ZWIuIgogICAgICAgICAgICAgICAgICAgICAgICB0ZWNobm9sb2d5ICJSZWFjdCIKICAgICAgICAgICAgICAgICAgICAgICAgdGFncyAiV2ViIGFwcCIKCiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXIgLT4gdGhpcyBcCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUGxhbmlmaWNhIGdhc3RvcyBwZXJzb25hbGVzIGRlIGZvcm1hIGRpbsOhbWljYSB5IGNvbnN1bHRhIHJlc8O6bWVuZXMiCgogICAgICAgICAgICAgICAgICAgICAgICB0aGlzIC0+IGNvcmUgXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIkludGVyYWN0w7phIGNvbiIgIkpTT04vSFRUUFMiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIG1vYmlsZUFwcCA9IGNvbnRhaW5lciAiQXBsaWNhY2nDs24gbcOzdmlsIiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uICJQcm92ZWUgbGEgZnVuY2lvbmFsaWRhZCBkZSBCYWxhbmNlciBhIGxvcyB1c3VhcmlvcyBhIHRyYXbDqXMgZGUgdW4gZGlzcG9zaXRpdm8gbcOzdmlsLiIKICAgICAgICAgICAgICAgICAgICAgICAgdGVjaG5vbG9neSAiW1RCRF0iCiAgICAgICAgICAgICAgICAgICAgICAgIHRhZ3MgIk1vYmlsZSBhcHAiCgogICAgICAgICAgICAgICAgICAgICAgICB1c2VyIC0+IHRoaXMgXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIlBsYW5pZmljYSBnYXN0b3MgcGVyc29uYWxlcyBkZSBmb3JtYSBkaW7DoW1pY2EgeSBjb25zdWx0YSByZXPDum1lbmVzIgoKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcyAtPiBjb3JlIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJJbnRlcmFjdMO6YSBjb24iICJKU09OL0hUVFBTIgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBzb2Z0d2FyZVN5c3RlbSAic3lzdGVtLWNvbnRleHQtZGlhZ3JhbSIgewogICAgICAgICAgICB0aXRsZSAiRGlhZ3JhbWEgZGUgY29udGV4dG8gZGUgQmFsYW5jZXIiCiAgICAgICAgICAgIGRlc2NyaXB0aW9uICJNb2RlbG8gQzQ6IGRpYWdyYW1hIGRlIGNvbnRleHRvIGRlbCBzaXN0ZW1hLiIKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgc29mdHdhcmVTeXN0ZW0gImNvbnRhaW5lci1kaWFncmFtIiB7CiAgICAgICAgICAgIHRpdGxlICJEaWFncmFtYSBkZSBjb250ZW5lZG9yZXMgZGUgQmFsYW5jZXIiCiAgICAgICAgICAgIGRlc2NyaXB0aW9uICJNb2RlbG8gQzQ6IGRpYWdyYW1hIGRlIGNvbnRlbmVkb3JlcyBkZWwgc2lzdGVtYS4iCiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgIH0KCiAgICAgICAgdGhlbWUgZGVmYXVsdAoKICAgICAgICBzdHlsZXMgewogICAgICAgICAgICBlbGVtZW50ICJFeHRlcm5hbCIgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZCAjNjY2NjY2CiAgICAgICAgICAgICAgICBjb2xvciAjZmZmZmZmIAogICAgICAgICAgICB9CgogICAgICAgICAgICBlbGVtZW50ICJEYXRhYmFzZSIgewogICAgICAgICAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZWxlbWVudCAiV2ViIGFwcCIgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICB9CgogICAgICAgICAgICBlbGVtZW50ICJNb2JpbGUgYXBwIiB7CiAgICAgICAgICAgICAgICBzaGFwZSBNb2JpbGVEZXZpY2VMYW5kc2NhcGUKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo="
+    },
+    "model": {
+        "enterprise": {
+            "name": "Contexto del proyecto"
+        },
+        "people": [
+            {
+                "id": "3",
+                "tags": "Element,Person",
+                "properties": {
+                    "structurizr.dsl.identifier": "user"
+                },
+                "name": "Usuario de Balancer",
+                "description": "Usuario del sistema Balancer, con gastos personales y una o varias cuentas bancarias o de correo electrónico.",
+                "relationships": [
+                    {
+                        "id": "21",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "c11c9092-f267-4df2-9dd1-20ee9477cf29"
+                        },
+                        "sourceId": "3",
+                        "destinationId": "20",
+                        "description": "Planifica gastos personales de forma dinámica y consulta resúmenes"
+                    },
+                    {
+                        "id": "25",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "f59565b6-8f18-4070-bf8b-579a27ddd11d"
+                        },
+                        "sourceId": "3",
+                        "destinationId": "24",
+                        "description": "Planifica gastos personales de forma dinámica y consulta resúmenes"
+                    },
+                    {
+                        "id": "22",
+                        "sourceId": "3",
+                        "destinationId": "4",
+                        "description": "Planifica gastos personales de forma dinámica y consulta resúmenes",
+                        "linkedRelationshipId": "21"
+                    }
+                ],
+                "location": "Internal"
+            }
+        ],
+        "softwareSystems": [
+            {
+                "id": "4",
+                "tags": "Element,Software System",
+                "properties": {
+                    "structurizr.dsl.identifier": "softwaresystem"
+                },
+                "name": "Balancer",
+                "relationships": [
+                    {
+                        "id": "19",
+                        "sourceId": "4",
+                        "destinationId": "3",
+                        "description": "Envía notificaciones",
+                        "technology": "[TBD]",
+                        "linkedRelationshipId": "18"
+                    }
+                ],
+                "location": "Internal",
+                "containers": [
+                    {
+                        "id": "20",
+                        "tags": "Element,Container,Web app",
+                        "properties": {
+                            "structurizr.dsl.identifier": "webapp"
+                        },
+                        "name": "Aplicación web",
+                        "description": "Provee la funcionalidad de Balancer a los usuarios a través de un navegador web.",
+                        "relationships": [
+                            {
+                                "id": "23",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "c5d75a73-aef8-44f1-a452-1c382e1d5c7b"
+                                },
+                                "sourceId": "20",
+                                "destinationId": "5",
+                                "description": "Interactúa con",
+                                "technology": "JSON/HTTPS"
+                            }
+                        ],
+                        "group": "Interacción con el usuario (frontend)",
+                        "technology": "React",
+                        "documentation": {}
+                    },
+                    {
+                        "id": "24",
+                        "tags": "Element,Container,Mobile app",
+                        "properties": {
+                            "structurizr.dsl.identifier": "mobileapp"
+                        },
+                        "name": "Aplicación móvil",
+                        "description": "Provee la funcionalidad de Balancer a los usuarios a través de un dispositivo móvil.",
+                        "relationships": [
+                            {
+                                "id": "26",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "8cbc8900-6376-4b22-abe1-5bcbeb9cea59"
+                                },
+                                "sourceId": "24",
+                                "destinationId": "5",
+                                "description": "Interactúa con",
+                                "technology": "JSON/HTTPS"
+                            }
+                        ],
+                        "group": "Interacción con el usuario (frontend)",
+                        "technology": "[TBD]",
+                        "documentation": {}
+                    },
+                    {
+                        "id": "8",
+                        "tags": "Element,Container",
+                        "properties": {
+                            "structurizr.dsl.identifier": "bankingconnector"
+                        },
+                        "name": "Conector bancario",
+                        "description": "Gestiona la entrada de datos a través del agregador bancario.",
+                        "relationships": [
+                            {
+                                "id": "11",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "e05c29da-5bc6-4e88-9f0b-cddf8022a57c"
+                                },
+                                "sourceId": "8",
+                                "destinationId": "5",
+                                "description": "Notifica y proporciona datos bancarios",
+                                "technology": "AMQP/TCP"
+                            }
+                        ],
+                        "group": "Fuentes de datos",
+                        "technology": "Kotlin/Spring",
+                        "documentation": {}
+                    },
+                    {
+                        "id": "12",
+                        "tags": "Element,Container",
+                        "properties": {
+                            "structurizr.dsl.identifier": "emailconnector"
+                        },
+                        "name": "Conector de email",
+                        "description": "Gestiona la entrada de datos a través de correo electrónico.",
+                        "relationships": [
+                            {
+                                "id": "15",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "2c6fc25c-618f-4098-a188-e9875d1879b4"
+                                },
+                                "sourceId": "12",
+                                "destinationId": "5",
+                                "description": "Notifica y proporciona datos de facturas y recibos",
+                                "technology": "AMQP/TCP"
+                            }
+                        ],
+                        "group": "Fuentes de datos",
+                        "technology": "Kotlin/Spring",
+                        "documentation": {}
+                    },
+                    {
+                        "id": "6",
+                        "tags": "Element,Container,Database",
+                        "properties": {
+                            "structurizr.dsl.identifier": "database"
+                        },
+                        "name": "Base de datos",
+                        "description": "Almacena credenciales de acceso e información sobre gastos, planificación y análisis.",
+                        "documentation": {}
+                    },
+                    {
+                        "id": "16",
+                        "tags": "Element,Container",
+                        "properties": {
+                            "structurizr.dsl.identifier": "notifications"
+                        },
+                        "name": "Servicio de notificaciones",
+                        "description": "Gestiona el envío de notificaciones al usuario.",
+                        "relationships": [
+                            {
+                                "id": "18",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "3bf6a11b-2e25-4fbe-9a99-4e390d7035cf"
+                                },
+                                "sourceId": "16",
+                                "destinationId": "3",
+                                "description": "Envía notificaciones",
+                                "technology": "[TBD]"
+                            }
+                        ],
+                        "group": "Interacción con el usuario (frontend)",
+                        "technology": "Kotlin/Spring",
+                        "documentation": {}
+                    },
+                    {
+                        "id": "5",
+                        "tags": "Element,Container",
+                        "properties": {
+                            "structurizr.dsl.identifier": "core"
+                        },
+                        "name": "Servicio Core",
+                        "description": "Coordina el resto de microservicios y provee la funcionalidad de Balancer a través de una API JSON/HTTPS.",
+                        "relationships": [
+                            {
+                                "id": "17",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "a132c193-1d64-4858-8c07-024602490b5c"
+                                },
+                                "sourceId": "5",
+                                "destinationId": "16",
+                                "description": "Envía notificaciones",
+                                "technology": "AMQP/TCP"
+                            },
+                            {
+                                "id": "7",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "72b7dc48-9ab3-470e-8f51-5bb337d76fb8"
+                                },
+                                "sourceId": "5",
+                                "destinationId": "6",
+                                "description": "Consulta y escribe datos",
+                                "technology": "TCP/SQL"
+                            }
+                        ],
+                        "technology": "Kotlin/Spring",
+                        "documentation": {}
+                    }
+                ],
+                "documentation": {}
+            },
+            {
+                "id": "2",
+                "tags": "Element,Software System,External",
+                "properties": {
+                    "structurizr.dsl.identifier": "bankingaggregator"
+                },
+                "name": "Agregador bancario",
+                "description": "Plaid",
+                "relationships": [
+                    {
+                        "id": "10",
+                        "sourceId": "2",
+                        "destinationId": "4",
+                        "description": "Notifica y proporciona datos bancarios",
+                        "technology": "JSON/HTTPS",
+                        "linkedRelationshipId": "9"
+                    },
+                    {
+                        "id": "9",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "f5d62dd8-4d43-4f1c-830a-eb66c40e0d7f"
+                        },
+                        "sourceId": "2",
+                        "destinationId": "8",
+                        "description": "Notifica y proporciona datos bancarios",
+                        "technology": "JSON/HTTPS"
+                    }
+                ],
+                "location": "External",
+                "documentation": {}
+            },
+            {
+                "id": "1",
+                "tags": "Element,Software System,External",
+                "properties": {
+                    "structurizr.dsl.identifier": "emailsystem"
+                },
+                "name": "Servidor de email",
+                "description": "Gmail API",
+                "relationships": [
+                    {
+                        "id": "14",
+                        "sourceId": "1",
+                        "destinationId": "4",
+                        "description": "Proporciona recepción y envío de mensajes de email",
+                        "technology": "JSON/HTTPS",
+                        "linkedRelationshipId": "13"
+                    },
+                    {
+                        "id": "13",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "6edbe48b-fb9f-4c7a-b893-90d5036b3784"
+                        },
+                        "sourceId": "1",
+                        "destinationId": "12",
+                        "description": "Proporciona recepción y envío de mensajes de email",
+                        "technology": "JSON/HTTPS"
+                    }
+                ],
+                "location": "External",
+                "documentation": {}
+            }
+        ]
+    },
+    "documentation": {},
+    "views": {
+        "systemContextViews": [
+            {
+                "key": "system-context-diagram",
+                "order": 1,
+                "title": "Diagrama de contexto de Balancer",
+                "description": "Modelo C4: diagrama de contexto del sistema.",
+                "softwareSystemId": "4",
+                "paperSize": "A4_Landscape",
+                "dimensions": {
+                    "width": 3508,
+                    "height": 2480
+                },
+                "enterpriseBoundaryVisible": true,
+                "elements": [
+                    {
+                        "id": "1",
+                        "x": 2560,
+                        "y": 824
+                    },
+                    {
+                        "id": "2",
+                        "x": 2560,
+                        "y": 1354
+                    },
+                    {
+                        "id": "3",
+                        "x": 516,
+                        "y": 1009
+                    },
+                    {
+                        "id": "4",
+                        "x": 1514,
+                        "y": 1090
+                    }
+                ],
+                "relationships": [
+                    {
+                        "id": "14"
+                    },
+                    {
+                        "id": "22",
+                        "vertices": [
+                            {
+                                "x": 1216,
+                                "y": 1419
+                            }
+                        ]
+                    },
+                    {
+                        "id": "10"
+                    },
+                    {
+                        "id": "19",
+                        "vertices": [
+                            {
+                                "x": 1216,
+                                "y": 1044
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "containerViews": [
+            {
+                "key": "container-diagram",
+                "order": 2,
+                "title": "Diagrama de contenedores de Balancer",
+                "description": "Modelo C4: diagrama de contenedores del sistema.",
+                "softwareSystemId": "4",
+                "paperSize": "A4_Landscape",
+                "dimensions": {
+                    "width": 3508,
+                    "height": 2480
+                },
+                "externalSoftwareSystemBoundariesVisible": true,
+                "elements": [
+                    {
+                        "id": "12",
+                        "x": 2721,
+                        "y": 1419
+                    },
+                    {
+                        "id": "1",
+                        "x": 2721,
+                        "y": 2082
+                    },
+                    {
+                        "id": "24",
+                        "x": 1006,
+                        "y": 1582
+                    },
+                    {
+                        "id": "2",
+                        "x": 2721,
+                        "y": 97
+                    },
+                    {
+                        "id": "3",
+                        "x": 296,
+                        "y": 1007
+                    },
+                    {
+                        "id": "16",
+                        "x": 1008,
+                        "y": 477
+                    },
+                    {
+                        "id": "5",
+                        "x": 1864,
+                        "y": 1057
+                    },
+                    {
+                        "id": "6",
+                        "x": 1864,
+                        "y": 1577
+                    },
+                    {
+                        "id": "8",
+                        "x": 2721,
+                        "y": 758
+                    },
+                    {
+                        "id": "20",
+                        "x": 1008,
+                        "y": 1057
+                    }
+                ],
+                "relationships": [
+                    {
+                        "id": "18"
+                    },
+                    {
+                        "id": "17"
+                    },
+                    {
+                        "id": "15"
+                    },
+                    {
+                        "id": "26"
+                    },
+                    {
+                        "id": "25"
+                    },
+                    {
+                        "id": "13"
+                    },
+                    {
+                        "id": "23"
+                    },
+                    {
+                        "id": "11"
+                    },
+                    {
+                        "id": "7"
+                    },
+                    {
+                        "id": "21"
+                    },
+                    {
+                        "id": "9"
+                    }
+                ]
+            }
+        ],
+        "configuration": {
+            "branding": {},
+            "styles": {
+                "elements": [
+                    {
+                        "tag": "External",
+                        "background": "#666666",
+                        "color": "#ffffff"
+                    },
+                    {
+                        "tag": "Database",
+                        "shape": "Cylinder"
+                    },
+                    {
+                        "tag": "Web app",
+                        "shape": "WebBrowser"
+                    },
+                    {
+                        "tag": "Mobile app",
+                        "shape": "MobileDeviceLandscape"
+                    }
+                ]
+            },
+            "themes": [
+                "https://static.structurizr.com/themes/default/theme.json"
+            ],
+            "terminology": {},
+            "metadataSymbols": "SquareBrackets",
+            "lastSavedView": "system-context-diagram"
+        }
+    }
+}
